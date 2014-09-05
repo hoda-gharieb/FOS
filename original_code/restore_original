@@ -1,0 +1,4 @@
+#!/bin/sh
+rm -rf /home/os/FOS_2008/part1
+rm -rf /home/os/FOS_2008/part2
+cp -rf /home/os/FOS_2008/original_code/* /home/os/FOS_2008/
